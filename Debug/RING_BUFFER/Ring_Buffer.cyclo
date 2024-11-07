@@ -1,0 +1,5 @@
+../RING_BUFFER/Ring_Buffer.c:6:9:RINGBUF_Init	4
+../RING_BUFFER/Ring_Buffer.c:16:8:RINGBUF_Put	3
+../RING_BUFFER/Ring_Buffer.c:36:9:RINGBUF_Get	3
+../RING_BUFFER/Ring_Buffer.c:51:8:RINGBUF_Clear	3
+../RING_BUFFER/Ring_Buffer.c:67:8:RINGBUF_GetFill	2
